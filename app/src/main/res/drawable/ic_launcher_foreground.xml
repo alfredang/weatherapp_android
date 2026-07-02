@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Sun peeking over a cloud, centered in the adaptive-icon safe zone (66/108). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- sun -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M63,42 m-12,0 a12,12 0 1,1 24,0 a12,12 0 1,1 -24,0" />
+    <!-- sun rays -->
+    <path
+        android:strokeColor="#FFD54F"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M63,24 L63,18 M78,29 L82,25 M84,42 L90,42 M78,55 L82,59 M48,29 L44,25" />
+    <!-- cloud -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,74 a11,11 0 0 1 0,-22 a14,14 0 0 1 27,-4 a10,10 0 0 1 1,26 z" />
+</vector>
