@@ -16,7 +16,7 @@ android {
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.tertiaryinfotech.weatherapp"
+        applicationId = "com.tertiaryinfotech.tertiaryweatherapp"
         minSdk = 26
         targetSdk = 36
         versionCode = 1
