@@ -6,6 +6,10 @@ app. Search any city (or use your current location), pull live conditions from t
 **[Open-Meteo](https://open-meteo.com)** API, and see the place pinned on an OpenStreetMap
 view — behind a clean Material bottom navigation.
 
+[![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on-Google%20Play-414141?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.tertiaryinfotech.tertiaryweatherapp)
+
+**[Get it on Google Play →](https://play.google.com/store/apps/details?id=com.tertiaryinfotech.tertiaryweatherapp)** (`com.tertiaryinfotech.tertiaryweatherapp`)
+
 ## Features
 
 - 📍 **Auto-detect current location** — on launch the app finds where you are (LocationManager +

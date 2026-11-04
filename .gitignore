@@ -22,3 +22,8 @@ keystore.properties
 
 # Source material the project was derived from — not ours to republish.
 **/reference/
+
+# Secrets & build output (never pushed)
+.env
+.env.*
+.kotlin/
